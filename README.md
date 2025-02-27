@@ -25,12 +25,23 @@
 5. Using test and iterate methods
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
-
+Using plain language in writing helps user;
+1. Understand the softare or system easily
+2. Solve their own problems without needing extra help
+3. Be more engaging, proactive and productive
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+1. Simplified terms focus on 'what' and 'why' instead of 'how' for example 
+
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+Examples and visual aids help in explaining complex concepts more clearly as they make the information more relatable and easier to understand and comprehend. It also provides a mapwork to help nagivate most of the provided information
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
+
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
+
+
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
